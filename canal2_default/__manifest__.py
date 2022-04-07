@@ -25,26 +25,26 @@
     'summary': 'Customización Telecomunicaciones',
     'author': 'Leonardo Bozzi, Ing. Gabriela Rivero',
     'depends': [
-        # # Applicaciones del Cliente
-        # 'sale_management',
-        # 'sale_subscription',
-        # 'purchase',
-        # 'stock',
-        # 'hr',
-        # 'note',
-        # 'board',
-        # 'calendar',
-        # 'website',
-        # 'helpdesk',
-        # 'project',
+        # Applicaciones del Cliente
+        'sale_management',
+        'sale_subscription',
+        'purchase',
+        'stock',
+        'hr',
+        'note',
+        'board',
+        'calendar',
+        'website',
+        'helpdesk',
+        'project',
 
-        # # Contabilidad
-        # 'account',
-        # 'account_accountant',
-        # 'account_check',
+        # Contabilidad
+        'account',
+        'account_accountant',
+        'account_check',
 
-        # # Localización
-        # 'l10n_ar',
+        # Localización
+        'l10n_ar',
 
         # # Miscellaneous
         # 'base_address_city',
@@ -289,12 +289,8 @@
         'https://github.com/ingadhoc/website ingadhoc-website',
     ],
     'docker-images': [
-       # 'odoo jobiols/odoo-jeo:12.0',
-       # 'odoo lbozzi/odoo-docker-lb:12.0',
        'odoo lbozzi/odoo-docker-lb:15.0',
-       # 'postgres postgres:11.1-alpine',
        'postgres mdillon/postgis:11-alpine',
-       # 'aeroo adhoc/aeroo-docs',
        'nginx nginx',
     ]
 }
