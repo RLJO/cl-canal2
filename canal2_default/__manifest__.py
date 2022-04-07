@@ -41,7 +41,7 @@
         # Contabilidad
         'account',
         'account_accountant',
-        'account_check',
+        # 'account_check',
 
         # Localización
         'l10n_ar',
