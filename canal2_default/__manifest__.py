@@ -284,7 +284,7 @@
         'https://github.com/ingadhoc/purchase ingadhoc-purchase',
         # 'https://github.com/ingadhoc/reporting-engine ingadhoc-reporting-engine',
         'https://github.com/ingadhoc/sale ingadhoc-sale',
-        'https://github.com/ingadhoc/odoo-support ingadhoc-odoo-support',
+        # 'https://github.com/ingadhoc/odoo-support ingadhoc-odoo-support',
         'https://github.com/ingadhoc/stock ingadhoc-stock',
         'https://github.com/ingadhoc/website ingadhoc-website',
     ],
