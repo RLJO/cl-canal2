@@ -186,8 +186,8 @@
     'git-repos': [
         'https://github.com/regaby/cl-canal2.git',
         'https://github.com/leobozzi/odoo-addons-utils.git',
-        'https://github.com/vangrow/odoo-modules.git',
-        'https://github.com/vangrow/ndm.git',
+        'https://github.com/vangrow/telco-modules.git',
+        'https://github.com/vangrow/telco-ndm.git',
         'https://github.com/leobozzi/enterprise.git',
 
         # Odoomates
