@@ -45,6 +45,7 @@
 
         # Localización
         'l10n_ar',
+        'account_payment_group',
 
         # # Miscellaneous
         # 'base_address_city',
@@ -59,6 +60,7 @@
         # 'mail_activity_board',
 
         # # Vangrow
+        'late_payment_penalty',
         # 'bit_partner_neighborhood',
         # 'bit_account_journal_day_book_report',
         # 'bit_dashboard_iframe',
