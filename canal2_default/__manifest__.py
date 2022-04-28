@@ -60,7 +60,12 @@
         # 'mail_activity_board',
 
         # # Vangrow
+        'partner_direction',
+        'partner_neighborhood',
+        'product_subscription',
         'late_payment_penalty',
+        'subscription_sale_order_proportional',
+        'subscription_ux',
         # 'bit_partner_neighborhood',
         # 'bit_account_journal_day_book_report',
         # 'bit_dashboard_iframe',
