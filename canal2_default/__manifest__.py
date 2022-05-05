@@ -192,6 +192,7 @@
 
     'git-repos': [
         'https://github.com/regaby/cl-canal2.git',
+        'https://github.com/regaby/account_debt_management.git account_debt_management/account_debt_management',
         'https://github.com/leobozzi/odoo-addons-utils.git',
         'https://github.com/vangrow/telco-modules.git',
         'https://github.com/vangrow/telco-ndm.git',
