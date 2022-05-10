@@ -45,7 +45,7 @@
 
         # Localización
         'l10n_ar',
-        'account_payment_group',
+        # 'account_payment_group',
 
         # # Miscellaneous
         # 'base_address_city',
@@ -66,6 +66,8 @@
         'late_payment_penalty',
         'subscription_sale_order_proportional',
         'subscription_ux',
+        'subscription_ticket',
+        'subscription_unsubscribe',
         # 'bit_partner_neighborhood',
         # 'bit_account_journal_day_book_report',
         # 'bit_dashboard_iframe',
