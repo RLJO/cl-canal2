@@ -68,7 +68,6 @@
         'subscription_ux',
         'subscription_ticket',
         'subscription_unsubscribe',
-        'custom_report_invoice',
         'custom_invoice_report',
         'subscription_plan_change',
         # 'bit_partner_neighborhood',
