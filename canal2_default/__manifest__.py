@@ -23,7 +23,7 @@
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Telecomunicaciones',
-    'author': 'Leonardo Bozzi, Ing. Gabriela Rivero',
+    'author': 'Leonardo Bozzi, Ing. Gabriela Rivero, Bazan Romina',
     'depends': [
         # Applicaciones del Cliente
         'sale_management',
@@ -70,16 +70,6 @@
         'subscription_unsubscribe',
         'custom_invoice_report',
         'subscription_plan_change',
-        # 'bit_partner_neighborhood',
-        # 'bit_account_journal_day_book_report',
-        # 'bit_dashboard_iframe',
-        # 'bit_late_payment_penalty',
-        # 'bit_sale_order_template_ux',
-        # 'bit_sale_order_type_ux',
-        # 'bit_subscription_sale_order_proportional',
-        # 'bit_subscription_seal',
-        # 'bit_subscription_ticket',
-        # 'bit_subscription_ux',
 
         # 'bit_ndm',
         # 'bit_ndm_ftth',
